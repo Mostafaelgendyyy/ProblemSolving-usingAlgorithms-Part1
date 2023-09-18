@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/FCAI MATERIALS/Algorithm Assignment-1/Problem 6/main.cpp
+iostream
+-
+string
+-
+vector
+-
+list
+-
+unordered_map
+-
+
